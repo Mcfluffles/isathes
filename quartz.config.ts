@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "mcfluffles.github.io/isathes",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Unedited"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
