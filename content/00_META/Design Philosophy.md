@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Design Philosophy
 ---
 # The Philosophy and Cultural Foundations of Isathes
