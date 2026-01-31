@@ -7,19 +7,11 @@
 **Key properties**
 
 - internal perception / state
-    
 - non-transferable
-    
-- cannot be invoked, commanded, or cessated
-    
+- cannot be invoked, commanded, or cessate-d
 - reflects **subjective or institutional awareness**, not external fact
-    
 
 **Examples**
-
-`[City] dramir`
-
-> The city is threatened. (as an internal/state description)
 
 `ei dramir`
 
