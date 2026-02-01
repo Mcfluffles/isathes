@@ -89,4 +89,4 @@ Cessation is an **enacted change** and is distinct from all instability expressi
 #### F. Key compatibility note
 
 - Instability expressions are **descriptive**, not enacted.
-- They may appear under conditionals (`sare / kel / nae`) without violating the “no cessation in hypotheticals” rule.
+- They may appear under conditionals (`sare / kel / nae`) without violating the “no cessation in hypotheticals” rule

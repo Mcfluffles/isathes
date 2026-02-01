@@ -1,6 +1,6 @@
 - **Class:** #I_causative_creation-eth 
 - **Phonology:** /sɛθɛθ/
-#### Definition (for notes)
+#### Definition
 
 >**setheth** (Class I, -eth): _to cause a state or structure to endure; to reinforce or restore stability._ 
 

@@ -1,5 +1,5 @@
 ---
-title: Verb and Tense Conjugation
+title: Verb Conjugation and Tense Overview
 draft: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Isathes (Old Empyrean)
+draft:
 ---
 # Sel!
 

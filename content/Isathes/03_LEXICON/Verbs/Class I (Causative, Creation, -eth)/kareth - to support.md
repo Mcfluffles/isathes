@@ -2,7 +2,7 @@
 
 **Class:** #I_causative_creation-eth
 
-#### Definition (tightened)
+#### Definition
 
 > **kareth** — _to provide sustaining conditions that enable endurance._
 
