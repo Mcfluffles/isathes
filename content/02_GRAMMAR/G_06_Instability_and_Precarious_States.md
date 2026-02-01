@@ -1,4 +1,9 @@
-### Instability and Precarious States (Isathes) — Canon
+---
+title: Instability and Precarious States
+draft:
+---
+
+# Instability and Precarious States
 
 Isathes distinguishes **non-causative** instability states from **enacted cessation**. Instability constructions describe _current conditions of endurance_ without asserting change, prediction, or causation, and remain compatible with conditional scope.
 
@@ -39,7 +44,6 @@ External threat is modeled as **objective opposition** via Class III.
 **Verb**
 
 - `dresal` (Class III): to oppose / to threaten another (external condition)
-    
 
 **Descriptive affected participant (`Ve` looks left)**
 
@@ -47,7 +51,7 @@ External threat is modeled as **objective opposition** via Class III.
 
 **Example**
 
-`City ve enemy dresal`
+`[City] ve [enemy] dresal`
 
 **Meaning:** The city is threatened by an enemy (opposition exists).
 
@@ -60,11 +64,11 @@ Threatenedness is modeled as an **internal state** via Class IVa, using the same
 **Verb**
 
 - `dramir` (Class IVa): to feel threatened / to be in a threatened state
-    
 
 **Examples**
 
-`City dramir I dramir`
+`[City] dramir`
+`ei dramir`
 
 **Meaning:** Vulnerability is felt/recognized (does not assert objective opposition).
 
@@ -85,5 +89,4 @@ Cessation is an **enacted change** and is distinct from all instability expressi
 #### F. Key compatibility note
 
 - Instability expressions are **descriptive**, not enacted.
-    
 - They may appear under conditionals (`sare / kel / nae`) without violating the “no cessation in hypotheticals” rule.

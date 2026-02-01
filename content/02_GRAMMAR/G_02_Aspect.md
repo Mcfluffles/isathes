@@ -1,4 +1,9 @@
-# Aspect in Isathes — Canon
+---
+title: Aspect
+draft:
+---
+
+# Aspect in Isathes
 
 ## 1. General Orientation
 
@@ -8,20 +13,14 @@
 Aspect is distinct from tense and mood:
 
 - **Tense** locates an event in time.
-    
 - **Aspect** describes its temporal _shape_.
-    
 - **Mood** encodes agency and causation.
-    
 
 Aspect applies primarily to:
 
 - states
-    
 - bindings
-    
 - nominalized events
-    
 
 Aspect does **not** stack.
 
@@ -45,19 +44,17 @@ Isathes is a **state-oriented** language. Its core aspectual distinctions are bu
 
 > The binding currently holds.
 
-`Peace sel kisal`
+`[Peace] sel kisal`
 
 > Peace is generally the case.
 
-`Truce sha kisal`
+`[Truce] sha kisal`
 
 > The truce is beginning to hold.
 
 ---
 
 ## 3. Progressive Meaning (Derived, Not Grammatical)
-
-### Canon decision
 
 **Isathes has no dedicated progressive aspect.**
 
@@ -71,7 +68,8 @@ Progressive meaning (“is happening right now”) is **derived**, not marked.
 
 ### Core patterns
 
-`[Event nominal] ren kisal [Entity] ve [event nominal] ren kisal`
+`[Event nominal] ren kisal 
+`[Entity] ve [event nominal] ren kisal`
 
 ---
 
@@ -79,7 +77,7 @@ Progressive meaning (“is happening right now”) is **derived**, not marked.
 
 **“The city is being attacked”**
 
-`City ve attack-salir ren kisal`
+`[City] ve [ATTACK-NOM] ren kisal`
 
 Literal sense:
 
@@ -87,16 +85,13 @@ Literal sense:
 
 **“The binding is being formed (not yet complete)”**
 
-`Vaethir ren kisal`
+`Vaethen sha kisal`
 
 Progressive meaning is achieved without:
 
 - special verb forms
-    
 - motion-oriented grammar
-    
 - process marking
-    
 
 ---
 
@@ -109,13 +104,9 @@ Progressive meaning is achieved without:
 It is:
 
 - event-based
-    
 - distributive
-    
 - non-habitual
-    
 - non-continuous
-    
 
 ---
 
@@ -126,11 +117,8 @@ It is:
 It does **not** imply:
 
 - continuity
-    
 - inevitability
-    
 - inherent nature
-    
 
 ---
 
@@ -141,9 +129,7 @@ It does **not** imply:
 Where:
 
 - **time-span** is a temporal noun or pronoun (day, year, cycle, etc.)
-    
 - the verb remains unmodified
-    
 
 ---
 
@@ -151,24 +137,24 @@ Where:
 
 **“The city is attacked every year”**
 
-`City sen year attack ``sx`
+`[City] sen [YEAR] [ATTACK-V]
 
 **“They meet each night”**
 
-`They sen night meet`
+`ad sen [NIGHT] [MEET-V]`
 
 **“The rite is performed every cycle”**
 
-`Rite sen cycle perform`
+`[Rite] sen [CYCLE] [PERFORM-V]`
 
 ---
 
 ### Contrast with habitual (`sel`)
 
-|Construction|Meaning|
-|---|---|
-|`City sel peaceful`|The city is generally peaceful|
-|`City sen year attack`|The city is attacked each year|
+| Construction                 | Meaning                        |
+| ---------------------------- | ------------------------------ |
+| `[City] sel [peaceful]`      | The city is generally peaceful |
+| `[City] sen [year] [attack]` | The city is attacked each year |
 
 Habitual describes **states**.  
 Iterative describes **events**.
@@ -190,11 +176,8 @@ An event is telic if it can produce a result-state.
 ### Canon telicity rule
 
 - **Process nominal** → attempt or ongoing action
-    
 - **Result nominal + `kisal`** → successful completion
-    
-- **Failure nominal + `kisal`** → unsuccessful completion
-    
+- **Failure nominal + `[POESSESION-P]` + `kisal`** → unsuccessful completion
 
 Failure is treated as a **state belonging to the attempted event**, expressed via possession.
 
@@ -216,31 +199,22 @@ Failure is treated as a **state belonging to the attempted event**, expressed vi
 
 > The failure belonging to the act of binding exists.
 
-This cleanly distinguishes:
+This distinguishes:
 
 - doing
-    
 - finishing
-    
 - failing
-    
 
 ---
 
 ## 6. Aspectual Scope Constraints
 
 - Aspect applies to:
-    
     - states
-        
     - bindings
-        
     - nominalized events
-        
 - Aspect does **not** apply directly to invocative mood.
-    
 - Aspect particles do **not** stack.
-    
 
 ---
 
@@ -249,27 +223,8 @@ This cleanly distinguishes:
 Aspect in Isathes reflects a worldview concerned with:
 
 - whether things **hold**
-    
 - whether they **fail**
-    
 - whether they **recur**
-    
 - whether they **complete**
-    
 
 Not with how they _move_.
-
----
-
-### ✔ Aspect Status
-
-- Progressive: **derived**
-    
-- Iterative: **`sen` (locked)**
-    
-- Telicity: **grammatical via result-state existence**
-    
-- Endurance aspect: **core and complete**
-    
-
-Aspect is now **fully canonized**.

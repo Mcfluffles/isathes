@@ -1,3 +1,8 @@
+---
+title: Grammatical Overview
+draft:
+---
+
 # An Overview of Isathes Grammar
 
 The grammar of Isathes is not primarily a system for describing action or narration. It is a system for describing **states, relations, and consequences**. Where many languages emphasize who did what and when, Isathes emphasizes **what holds, what fails, and what binds**.

@@ -15,4 +15,5 @@ Bare right now :(
 
 ###### For Questions and Inquires, you can reach out at:
 loremaster@isathes.com
+
 vesal.

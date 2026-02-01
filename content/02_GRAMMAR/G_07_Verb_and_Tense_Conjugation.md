@@ -1,4 +1,9 @@
-# Isathes Verb Declension — **Current Tense & Mood Inventory (Draft)**
+---
+title: Verb and Tense Conjugation
+draft: false
+---
+
+# Isathes Verb Conjugation — Tense & Mood Inventory
 
 This table shows **all productive verb forms we currently have**, independent of verb class restrictions (those are noted afterward).
 
@@ -35,11 +40,8 @@ This table shows **all productive verb forms we currently have**, independent of
 ### 2.1 Non-past (Unmarked)
 
 - Covers **present and future**
-    
 - Descriptive or predictive
-    
 - No causation asserted
-    
 
 > _vesal_ → “endures / will endure”
 
@@ -48,9 +50,7 @@ This table shows **all productive verb forms we currently have**, independent of
 ### 2.2 Past (`-a`)
 
 - Retrospective
-    
 - Descriptive only
-    
 - **Does not undo obligations or states**
     
 
@@ -61,11 +61,8 @@ This table shows **all productive verb forms we currently have**, independent of
 ### 2.3 Imperative (`-e`)
 
 - Commands an **agent**
-    
 - Requires a being capable of acting
-    
 - Cannot target reality, existence, belief, or will
-    
 
 > _vaethe_ → “bind!” (someone must act)
 
@@ -74,13 +71,9 @@ This table shows **all productive verb forms we currently have**, independent of
 ### 2.4 Invocative (`-i`, `-aen`)
 
 - **Asserts causation without an agent**
-    
 - Does not command
-    
 - Does not describe
-    
 - Claims responsibility for the utterance itself
-    
 
 |Form|Register|Use|
 |---|---|---|
@@ -91,8 +84,6 @@ This table shows **all productive verb forms we currently have**, independent of
 
 ## 3. Verb-Class Compatibility Snapshot
 
-(This is **not** new; just restated for memory.)
-
 |Verb Class|Non-past|Past|Imperative|Invocative|
 |---|---|---|---|---|
 |**Class I (-eth)**|✔|✔|✔|✔|
@@ -100,26 +91,3 @@ This table shows **all productive verb forms we currently have**, independent of
 |**Class III (-sal)**|✔|✔|✖|⚠ high only|
 |**Class IVa (-mir)**|✔|✔|✖|✖|
 |**Class IVb (-el)**|✔|✖ (by design)|✖|✖|
-
-(IVb pastlessness and restrictions are already part of your ontology.)
-
----
-
-## 4. What This Table Explicitly Does _Not_ Include (Yet)
-
-Just to be very clear, these are **out of scope for this table**:
-
-- Aspect (ongoing, completed, habitual)
-    
-- Conditional / hypothetical
-    
-- Evidentiality
-    
-- Modal futures
-    
-- Negation (particle-based)
-    
-- Cessation constructions (structural, not inflectional)
-    
-
-Those will layer _on top_ of this system later.
